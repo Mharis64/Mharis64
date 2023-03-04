@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mharis64
 - 👀 I’m interested in ... software designing and website development
 - 🌱 I’m currently learning... software Engineering in COMSATS UNIVERSITY ISLAMABAD PAKISTAN
-- 💞️ I’m looking to collaborate on... Software designing and website development
+- 💞️ I’m looking to collaborate on... Software development and website development
 - 📫 How to reach me ...harismhd64@gmail.com
 
 <!---
